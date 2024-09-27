@@ -1,10 +1,11 @@
 This repository Contains the CodeClauseProject
+# CodeClause-DemandForecastingforaRetailStore
 
-CodeClause-DemandForecastingforaRetailStore
+Project ID - CC969852
 
-Project ID - #CC69852
 
 Project Title - Demand Forecasting for a Retail Store
+
 
 Internship Domain - Data Science Intern
 
