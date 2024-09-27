@@ -1,6 +1,7 @@
 This repository Contains the CodeClauseProject
 
 CodeClause-CustomerSegmentationwithK-MeansClustering
+
 Project ID - #CC69853
 
 Project Title - Customer Segmentation with K-Means Clustering
